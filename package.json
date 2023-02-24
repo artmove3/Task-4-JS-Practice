@@ -1,0 +1,19 @@
+{
+  "name": "jspractice",
+  "version": "1.0.0",
+  "description": "Task-2-Layout-Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artmove3/Task-4-JS-Practice.git"
+  },
+  "author": "Andrei Shilov <artmove3@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artmove3/Task-4-JS-Practice/issues"
+  },
+  "homepage": "https://github.com/artmove3/Task-4-JS-Practice#readme"
+}
